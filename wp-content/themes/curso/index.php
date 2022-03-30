@@ -1,3 +1,17 @@
-<?php
+<?php get_header(); ?>
+<div class="conteudo">
+    <main>
+      <section class="slide"></section>
+      <section class="servicos"></section>
+      <section class="meio">
 
-echo "<h1>Custom Themes</h1>";
+        <aside class="barra-lateral"></aside>
+        <div class="noticias"></div>
+
+      </section>
+      <section class="mapa"></section>
+    </main>
+</div>
+<?php get_footer(); ?>
+
+ 
